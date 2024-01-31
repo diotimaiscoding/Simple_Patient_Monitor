@@ -1,6 +1,5 @@
 # Written by Çağla Çam
-# b2220765005
-# For BBM103 lesson
+# For Introduction to programming Lecture
 
 import os
 
